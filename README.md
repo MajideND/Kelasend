@@ -1,4 +1,4 @@
-# Kelasned
+# کلاسند | Kelasend
 ## Kelasend official tools and api
 
 صفحه رسمی کلاسند در Github
