@@ -1,24 +1,29 @@
-# کلاسند | Kelasend
-## Kelasend official tools and api
+ کلاسند | Kelasend
+## Kelasend official tools and api 
 
-صفحه رسمی کلاسند در Github
-
-در صورت مشکل در api ها و یا نیاز به راهنمایی به اکانت تلگرام https://t.me/kelasend_management پیام ارسال کنید
+support : https://t.me/kelasend_management
 
 
  ### در حال حاضر فرمت وبسایت کلاسند به صورت زیر است
 
 
-https://Kelasend.com صفحه اصلی سایت
+homepage : https://Kelasend.com
 
-Kelasend.com/cat/grade : اطلاعات مشاورین هر مقطع
+Kelasend.com/cat/{grade in persian}
 
-Kelasend.com/profile/name : صفحه اختصاصی هر مشاور
+example of consultant profile page : Kelasend.com/profile/biglary
 
-Kelasend.com/blog/ : بلاگ کلاسند مبتنی بر api v2 وردپرس
+wordpress blog : Kelasend.com/blog/
+
+Kelasend use strong server api for educational future of Iran.
+
+## اپلیکیشن کلاسند
+نسخه اندروید اپلیکیشن کلاسند را از https://github.com/MajideND/Kelasend/raw/master/ir.kelasend.student_15.apk می توانید دانلود کنید.
+Kelasend Android App : https://github.com/MajideND/Kelasend/raw/master/ir.kelasend.student_15.apk
+size = 9.9mb ,Android min api 17 ,Target api 28 ,Code : Java+Kotlin
 
 
+## what is Kelasend ?
+see our linkedin page https://www.linkedin.com/company/kelasend
 
-وب اپلیکیشن کلاسند به زودی ...
-
-##### اطلاعات صفحه به زودی تکمیل می شود
+##### Soon more ...
