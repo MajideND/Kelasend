@@ -4,7 +4,7 @@
 support : https://t.me/kelasend_management
 
 
- ### در حال حاضر فرمت وبسایت کلاسند به صورت زیر است
+ ### Kelasend How website works?
 
 
 homepage : https://Kelasend.com
@@ -17,9 +17,11 @@ wordpress blog : Kelasend.com/blog/
 
 Kelasend use strong server api for educational future of Iran.
 
-## اپلیکیشن کلاسند
+### Android Application
 نسخه اندروید اپلیکیشن کلاسند را از https://github.com/MajideND/Kelasend/raw/master/ir.kelasend.student_15.apk می توانید دانلود کنید.
+
 Kelasend Android App : https://github.com/MajideND/Kelasend/raw/master/ir.kelasend.student_15.apk
+
 size = 9.9mb ,Android min api 17 ,Target api 28 ,Code : Java+Kotlin
 
 
