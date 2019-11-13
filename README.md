@@ -18,11 +18,11 @@ wordpress blog : Kelasend.com/blog/
 Kelasend use strong server api for educational future of Iran.
 
 ### Android Application
-نسخه اندروید اپلیکیشن کلاسند را از https://github.com/MajideND/Kelasend/raw/master/ir.kelasend.student_15.apk می توانید دانلود کنید.
+نسخه اندروید اپلیکیشن کلاسند را از https://github.com/MajideND/Kelasend/raw/master/kelasend_androidapp_v16.apk می توانید دانلود کنید.
 
-Kelasend Android App : https://github.com/MajideND/Kelasend/raw/master/ir.kelasend.student_15.apk
+Kelasend Android App : https://github.com/MajideND/Kelasend/raw/master/kelasend_androidapp_v16.apk
 
-size = 9.9mb ,Android min api 17 ,Target api 28 ,Code : Java+Kotlin
+size = 9.96mb ,Android min api 17 ,Target api 28 ,Code : Java+Kotlin
 
 
 ## what is Kelasend ?
